@@ -3,7 +3,6 @@ body{
     min-height: 100vh;
     display: grid;
     grid: 1fr min-content / 1fr;
-    row-gap: 7.5rem;
     place-items: center;
     background-color: #D5E1EF;
     padding: 85px 28px;
